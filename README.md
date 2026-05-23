@@ -19,7 +19,7 @@ The physical framework is structured across a multi-layered waveguide grid with 
 The complete, nanometer-calibrated coordinate matrix ($XYZ$ tracks) and geometric validation functions are fully detailed inside the main specification documents included in this repository.
 
 ## 3. Repository Directory Structure
-* `/CHIP_2070_Blueprint.pdf` - Complete, production-ready technical publication and manual.
+* `/CHIP_2070_Prototyping_Edition.pdf` - Complete, production-ready technical publication and manual.
 * `/CHIP_2070_Blueprint.tex` - Document source code written in LaTeX for academic verification.
 * `/LICENSE` - Legal framework governing the distribution of this Intellectual Property (CC BY-NC-ND 4.0).
 
