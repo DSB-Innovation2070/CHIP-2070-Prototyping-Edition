@@ -1,5 +1,5 @@
 # CHIP-2070: Prototyping Edition
-https://doi.org/10.5281/zenodo.20360415
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20360415.svg)](https://doi.org/10.5281/zenodo.20360415)
 ### 3D Micro-Fabrication Blueprint in Fused Silica via Femtosecond Laser Writing
 
 Invention & Theoretical Framework by **Daniel Silviu Boghian**
